@@ -3,7 +3,7 @@
 Projeto FrontEnd desenvolvido juntamente com o Prof° Matheus Battist no curso de "Bootstrap 5 do Básico ao Avançado (com 4 projetos)".
 
 ## O que temos aqui:
-Uma linda página de amostra de artes em grafite.
+Uma linda página responsiva (mobile) de amostra de artes em grafite.
 Static Single Page com Bootstrap 5.
 
 ## Tecnologias: 
